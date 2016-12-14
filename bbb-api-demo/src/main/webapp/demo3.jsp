@@ -147,7 +147,7 @@ if (request.getParameterMap().isEmpty()) {
 	%> 
 <%@ include file="demo_header.jsp"%>
 
-<h2>Join a Session (password required)</h2>
+<h2>HP</h2>
 
 
 <FORM NAME="form1" METHOD="GET">
