@@ -30,7 +30,7 @@ Author: Fred Dixon <ffdixon@bigbluebutton.org>
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Join Demo Meeting</title>
+	<title>Nhập tên tài khoản</title>
 </head>
 
 <body>
