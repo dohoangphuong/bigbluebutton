@@ -45,7 +45,7 @@ if (request.getParameterMap().isEmpty()) {
 	%> 
 <%@ include file="demo_header.jsp"%>
 
-<h2>Join Demo Meeting</h2>
+<h2>Nhập tên tài khoản</h2>
 
 
 <FORM NAME="form1" METHOD="GET"> 
